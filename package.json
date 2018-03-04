@@ -1,0 +1,22 @@
+{
+  "name": "basiclocalauthentication",
+  "version": "1.0.0",
+  "description": "## What is this and why should i use it?",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lightraysio/basiclocalauthentication.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lightraysio/basiclocalauthentication/issues"
+  },
+  "homepage": "https://github.com/lightraysio/basiclocalauthentication#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
